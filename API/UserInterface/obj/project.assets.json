@@ -11803,11 +11803,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Vinhthp\\API Core\\API\\UserInterface\\UserInterface.csproj",
+      "projectUniqueName": "D:\\Vinhthp\\Test1\\API\\UserInterface\\UserInterface.csproj",
       "projectName": "UserInterface",
-      "projectPath": "D:\\Vinhthp\\API Core\\API\\UserInterface\\UserInterface.csproj",
+      "projectPath": "D:\\Vinhthp\\Test1\\API\\UserInterface\\UserInterface.csproj",
       "packagesPath": "C:\\Users\\vinhthp\\.nuget\\packages\\",
-      "outputPath": "D:\\Vinhthp\\API Core\\API\\UserInterface\\obj\\",
+      "outputPath": "D:\\Vinhthp\\Test1\\API\\UserInterface\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

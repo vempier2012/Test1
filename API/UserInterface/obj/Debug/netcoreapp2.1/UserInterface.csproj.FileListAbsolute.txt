@@ -30,3 +30,35 @@ D:\Vinhthp\API Core\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.dll
 D:\Vinhthp\API Core\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.pdb
 D:\Vinhthp\API Core\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csproj.CopyComplete
 D:\Vinhthp\API Core\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csprojAssemblyReference.cache
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.deps.json
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.runtimeconfig.json
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.runtimeconfig.dev.json
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.dll
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.pdb
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.Views.dll
+D:\Vinhthp\Test1\API\UserInterface\bin\Debug\netcoreapp2.1\UserInterface.Views.pdb
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csprojAssemblyReference.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csproj.CoreCompileInputs.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.RazorAssemblyInfo.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.RazorAssemblyInfo.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.AssemblyInfoInputs.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.AssemblyInfo.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.TagHelpers.input.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.TagHelpers.output.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.RazorCoreGenerate.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Home\About.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Home\Contact.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Home\Index.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Home\Privacy.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Shared\Error.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_CookieConsentPartial.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_Layout.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\Shared\_ValidationScriptsPartial.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\_ViewImports.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\Razor\Views\_ViewStart.g.cshtml.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.RazorTargetAssemblyInfo.cache
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.RazorTargetAssemblyInfo.cs
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.Views.pdb
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.dll
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.pdb
+D:\Vinhthp\Test1\API\UserInterface\obj\Debug\netcoreapp2.1\UserInterface.csproj.CopyComplete
